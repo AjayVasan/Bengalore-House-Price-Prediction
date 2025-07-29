@@ -32,7 +32,6 @@ Source: [Kaggle - Bengaluru House Prices Dataset](https://www.kaggle.com/ameytha
 - **Visualization**: Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn
 - **Web Framework**: Flask
-- **Deployment**: Heroku Cloud Platform
 
 ## 🧠 ML Models Used
 
